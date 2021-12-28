@@ -1,0 +1,24 @@
+.portfolio-div{
+    padding: 8%;
+}
+#portfolio-header{
+    text-align: center;
+    color:rgb(67, 37, 82);
+    font-size: 50px;
+    margin-bottom: 59px;
+}
+.portfolio-div p{
+    font-size: 20px;
+    padding-left: 150px;
+    padding-bottom: 20px;
+    
+}
+
+.portfolio-image img{
+    height: 190px;
+    width: 305px;
+}
+.portfolio-image-container{
+    display: flex;
+    flex-direction: row;
+}

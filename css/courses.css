@@ -1,0 +1,29 @@
+.course-div{
+    padding: 8%;
+}
+.course-div h1{
+    text-align: center;
+    color:rgb(67, 37, 82);
+    font-size: 50px;
+    margin-bottom: 59px;
+}
+.course-div p{
+    font-size: 20px;
+    padding-left: 150px;
+    padding-bottom: 20px;
+
+}
+.course-div div{
+    margin-top: 20px;
+    
+}
+
+span.course-name{
+    font-size: 25px;
+    font-weight: bold;
+    color: #1e5c20;
+}
+span.author{
+    font-style: italic;
+    font-size: 20px;
+}

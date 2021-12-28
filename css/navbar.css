@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .navbar div{
+    height: 2px;
+    width: 20px;
+    background: red;
+    margin: 6px;
+    text-align: center;
+} */
+
+.nav{
+    top: 0px;
+    overflow:hidden;
+    background: rgb(126, 232, 209);
+    position: fixed;
+    width: 100%;
+    align-items: center;
+    box-sizing: border-box;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    }
+.navbar ul{
+    margin: 10px;
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-end;
+}
+.navbar ul li{
+    padding: 5px;
+    list-style: none;
+    flex-direction: row;
+}
+.navbar ul li a{
+    padding: 9px;
+    text-decoration: none;
+}
+.navbar ul li:hover{
+    background: honeydew;
+    cursor: pointer;
+    border-radius: 3px;
+}

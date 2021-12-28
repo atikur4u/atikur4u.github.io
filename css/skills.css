@@ -1,0 +1,24 @@
+.skill-div {
+    padding:15%
+}
+.skill-div h1{
+    font-size: 50px;
+    text-align: center;
+    color:rgb(67, 37, 82);
+}
+.skill-div .sikll-info{
+    padding-top: 10px;
+    border: 1px solid black;
+}
+#skill .skill-info{
+    padding-top: 10px;
+    border: 2px solid black;
+    margin: 2px;
+}
+div.skill-line{
+    background: black;
+    width: 596px;
+}
+span.span{
+    /* padding-left: 90%; */
+}

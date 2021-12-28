@@ -1,0 +1,15 @@
+.contact-div{
+    padding: 8%;
+}
+.contact-div h1{
+    text-align: center;
+    color:rgb(67, 37, 82);
+    font-size: 50px;
+    margin-bottom: 59px;
+}
+.contact-div p{
+    font-size: 20px;
+    padding-left: 150px;
+    padding-bottom: 20px;
+
+}

@@ -1,0 +1,25 @@
+.education-div {
+    padding:10%;
+}
+
+.education-div h1{
+    font-size: 50px;
+    text-align: center;
+    color:rgb(67, 37, 82);
+}
+.education-border{
+    border: 1px double gray;
+    margin:22px
+}
+.education-level{
+    font-size: 25px;
+    color: #1e5c20;
+    font-style: italic;
+}
+.education-div span{
+    font-size: 19px;
+    font-weight: bold;
+    font-style: italic;
+    color: revert;
+    padding-left: 30px;
+}

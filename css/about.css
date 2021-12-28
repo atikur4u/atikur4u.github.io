@@ -1,0 +1,42 @@
+
+.second-section{
+    margin-top: 48px;
+    margin-left: 405px;
+    background: white;
+}
+
+.section{
+    box-sizing: border-box;
+    /* border: 2px solid black; */
+    height: 93.0vh;
+    padding-bottom: 667px;
+}
+.section2{
+    padding-top: 0px;
+}
+.section-div{
+    box-sizing: border-box;
+    margin-top: 20px;
+    width: 940px;
+}
+
+
+
+/* about section starts here..... */
+.about-div{
+    padding: 10%;
+}
+.about-div h1{
+    text-align: center;
+    color:rgb(67, 37, 82);
+    font-size: 50px;
+}
+.about-div p{
+    font-size: 20px;
+    padding: 15px;
+
+}
+.about-div div{
+    margin-top: 20px;
+    
+}
